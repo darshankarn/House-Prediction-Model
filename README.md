@@ -69,23 +69,17 @@ To use the model:
 
     bash
 
-    Copy code
-
     `git clone https://github.com/yourusername/house-price-prediction.git`
 
 2.  **Install the required libraries**:
 
     bash
 
-    Copy code
-
     `pip install -r requirements.txt`
 
 3.  **Run the Jupyter Notebook**:
 
     bash
-
-    Copy code
 
     `jupyter notebook HousePricePrediction.ipynb`
 
